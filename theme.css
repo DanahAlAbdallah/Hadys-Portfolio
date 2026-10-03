@@ -1,0 +1,9 @@
+/* ===== CHANGE YOUR COLORS HERE ===== */
+:root {
+  --yellow: #ffc400;       /* main accent */
+  --yellow-soft: #ffe27a;  /* lighter accent */
+  --black: #000000;        /* dark background */
+  --black-2: #161616;      /* cards on dark */
+  --white: #fafafa;        /* text on dark / light background */
+  --muted: #a8a8a8;        /* secondary text */
+}
