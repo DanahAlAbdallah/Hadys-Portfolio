@@ -1,12 +1,13 @@
 // ===== EDIT ALL TEXT HERE =====
 export const PHOTO = '/profile.jpg' // put your brother's photo in /public and change to '/photo.jpg'
-export const CONTACT = { email: 'name@example.com', phone: '+7 918 185-96-04', instagram: 'hadialabdallah_'}
+export const CONTACT = { email: 'name@example.com', phone: '+7 918 185-96-04', instagram: 'https://instagram.com/hadialabdallah_'}
 
 export const content = {
   en: {
     nav: { about: 'About', experience: 'Experience', interests: 'Interests', contact: 'Contact' },
     name: 'Hady Al-Abdallah',
     role: 'Veterinary student, 3rd year',
+    school: 'Student at Kuban State Medical University (KubSMU), Krasnodar, Russia',
     about: 'I study veterinary medicine and I\u2019m training in a vet clinic. Animals and nature are my life. I stay active with sport and long walks, and I\u2019ve worked many jobs, so I\u2019m not afraid of hard work.',
     cta: 'Get in touch',
     expTitle: 'Experience',
@@ -39,6 +40,8 @@ ru: {
 
   role: 'Студент ветеринарной медицины, 3 курс',
 
+  school: 'Студент Кубанского государственного медицинского университета (КубГМУ), Краснодар, Россия',
+  
   about: 'Я изучаю ветеринарную медицину и прохожу практику в ветеринарной клинике. Животные и природа — моя жизнь. Я занимаюсь спортом, много хожу пешком и всегда стараюсь оставаться активным. Я работал в разных сферах, поэтому не боюсь трудностей и тяжёлой работы.',
 
   cta: 'Связаться со мной',
